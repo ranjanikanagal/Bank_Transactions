@@ -1,0 +1,4 @@
+cd <path where you store the files>
+Note:please iclude path of the jar file completely below
+javac -cp "src;jsoup-1.10.2.jar" src\simple_Transactions
+java -cp "src;jsoup-1.10.2.jar" simple_Transactions
